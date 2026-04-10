@@ -1,0 +1,258 @@
+body{
+    background-color: #1c1c1c;
+    margin: 0%;
+    padding: 0%;
+  
+}
+h1 {
+    font-size: 70px;
+}
+header{
+    width: 99%;
+    background-color:#5d5555;
+    font-family: fuente;
+    color: white;
+    font-size: 42px;
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+@font-face {
+    font-family: fuente;
+    src: url("GlacialIndifference-Regular.otf");
+    
+main {
+    width: 99%;
+}   
+}
+.social{
+    display: flex;
+    gap: 15px;
+    color: white;
+    
+}
+.image1 img {
+    width: 100% !important;
+    height: 800px !important;
+}
+.text{
+    font-family: fuente;
+    color: #ffffff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+aside {
+    padding: auto;
+    width: 50%;
+    display: block;
+  
+}
+aside h2{
+font-family: fuente;
+color: #ff751f;
+font-size: 50px;
+margin-left: 20px;
+
+}
+
+.text-2{
+    font-family: fuente;
+    color: white;
+    font-size: 22px;
+    text-align: justify;
+    width: 600px;
+    padding: auto;
+    margin-top: -40px;
+    margin-left: 20px;
+    
+}
+.text-4{
+    font-family: fuente;
+    color: white;
+    font-size: 22px;
+    text-align: justify;
+    width: 600px;
+    margin-left: 20px;
+    padding: auto;
+    margin-top: -70px;
+
+    
+}
+.mapa{
+    margin-top: -10px;
+    margin-left: 20px;
+}
+.text-3{
+    padding: 1%;
+    text-align: justify;
+    width: 800px;
+    
+}
+
+.img-aside img{
+   width: 600px;
+   padding: 3%;
+   margin-top: -4%; 
+   margin-left: 1px;
+}
+.cont-1{
+    width: 50%;
+  
+     margin-left: 9%; 
+}
+.img1  {
+        
+        width: 80%;
+} 
+.img-pq{
+    display: flex;
+    gap: 3px;
+    
+}  
+.img2 {
+
+     width: 40%;
+}
+.img3{
+
+     width: 40%;
+}
+.cont-2{
+    width: 50%;
+  
+    margin-left: 9%;
+}
+.img4{
+    width: 80%;
+   
+}
+.img5{
+    width: 40%;
+}
+.img6{
+    width: 40%;
+}
+.text-down{
+    margin-top: -51%;
+    text-align: center;
+    font-family: fuente;
+    color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+}
+.cuadro-1{
+      border:1px solid #ff751f;
+      background-color: #ff751f;
+      border-radius: 100px;
+      text-align: center;
+      color: #ffffff;
+     font-family: fuente;
+     font-size: 20px;
+     width: 30rem;
+      
+}
+.cuadro-2{
+      border:1px solid #ff751f;
+      background-color: #ff751f;
+      border-radius: 100px;
+      text-align: center;
+      color: #ffffff;
+     font-family: fuente;
+     font-size: 20px;
+     width: 30rem;
+      
+}
+.cuadro-3{
+      border:1px solid #ff751f;
+      background-color: #ff751f;
+      border-radius: 100px;
+      text-align: center;
+      color: #ffffff;
+     font-family: fuente;
+     font-size: 20px;
+     width: 30rem;
+      
+}
+.cuadro-4{
+      border:1px solid #ff751f;
+      background-color: #ff751f;
+      border-radius: 100px;
+      text-align: center;
+      color: #ffffff;
+     font-family: fuente;
+     font-size: 20px;
+     width: 30rem;
+      
+}
+.cuadro-5{
+      border:1px solid #ff751f;
+      background-color: #ff751f;
+      border-radius: 100px;
+      text-align: center;
+      color: #ffffff;
+     font-family: fuente;
+     font-size: 20px;
+     width: 30rem;
+      
+}
+.cuadro-6{
+      border:1px solid #ff751f;
+      background-color: #ff751f;
+      border-radius: 100px;
+      text-align: center;
+      color: #ffffff;
+     font-family: fuente;
+     font-size: 20px;
+     width: 30rem;
+      
+}
+.cuadros{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px; 
+    justify-content: center;
+    padding: 20px;
+}
+.social-2{
+    display: flex;
+    gap: 15px;
+    color: white;
+
+}
+footer{
+    background-color:#5d5555;
+    margin-top: 17%;
+    padding: 10px;
+  
+}
+.ico img{
+    width: 120px;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+.txt{
+    margin-left: 80%;
+    margin-top: -123px;
+    font-size: 34px;
+    color: white;
+    font-family: fuente;
+
+}
+.cont-prin{
+    display: flex;
+    flex-direction: column-reverse;
+    
+}
+.contenedor-padre{
+    display: flex;
+}
